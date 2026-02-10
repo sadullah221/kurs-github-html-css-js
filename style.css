@@ -1,0 +1,11 @@
+ h2{
+            color: rgb(0, 255, 30);
+            font-size: 30px;
+            text-align: center;
+        }
+
+        p{
+            color: aqua;
+            font-size: 20px;
+            text-align: center;
+        }
